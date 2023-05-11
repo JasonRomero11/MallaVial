@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T13:00:51.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="BRm2gPGxqFy6lYxIlcIu" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-11T13:08:25.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="fDRZx6AQ8NRLiPKOddx9" version="21.2.9" type="github">
   <diagram name="Página-1" id="1OZZaF5aX_8ClHG2ztdf">
     <mxGraphModel dx="1290" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,10 +125,10 @@
           <mxGeometry x="355" y="350" width="70" height="760" as="geometry" />
         </mxCell>
         <mxCell id="FsLSWt84lDLGOrjkIzLL-36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://e7.pngegg.com/pngimages/997/429/png-clipart-black-traffic-light-illustration-traffic-light-computer-icons-symbol-traffic-light-s-image-file-formats-color.png;" vertex="1" parent="1">
-          <mxGeometry x="300" y="765" width="80" height="80" as="geometry" />
+          <mxGeometry x="679" y="760" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FsLSWt84lDLGOrjkIzLL-38" value="Los estados deben en el visor poder diferenciarse de manera visual (Fácil de identificar). &lt;b&gt;Sin más definición.&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="790" width="299" height="30" as="geometry" />
+          <mxGeometry x="60" y="770" width="619" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FsLSWt84lDLGOrjkIzLL-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="FsLSWt84lDLGOrjkIzLL-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -143,16 +143,46 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FsLSWt84lDLGOrjkIzLL-41" value="Hasta el momento, lo que se tiene es&lt;i style=&quot;text-align: justify; background-color: initial;&quot;&gt;&amp;nbsp;el modelo integrado de información del territorio con la información de la red&lt;br&gt;del modelo de aguas actualizado&lt;/i&gt;&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;&lt;span style=&quot;font-size:10.0pt;&lt;br/&gt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:&amp;quot;Arial Unicode MS&amp;quot;;&lt;br/&gt;mso-ansi-language:ES-CO;mso-fareast-language:ES;mso-bidi-font-weight:bold&quot;&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="880" width="325" height="80" as="geometry" />
+          <mxGeometry x="260" y="810" width="325" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FsLSWt84lDLGOrjkIzLL-43" value="Hasta el momento, se tiene &lt;br&gt;el modelo actualizado, con los diferentes estados, sin embargo, no se tiene en cuenta en el modelo la información de reparaciones por daños o emergencias que tuvieron impacto en el pavimento y son eventos desconocidos.&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="10" y="990" width="220" height="130" as="geometry" />
+          <mxGeometry y="930" width="220" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=205;exitDy=15;exitPerimeter=0;" edge="1" parent="1" source="FsLSWt84lDLGOrjkIzLL-43">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="970" as="sourcePoint" />
-            <mxPoint x="320" y="990" as="targetPoint" />
+            <mxPoint x="210" y="940" as="sourcePoint" />
+            <mxPoint x="270" y="940" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-45" value="Se incluyen las reparaciones a daños por emergencias, que es consolidada desde máximo y/o hidro, &lt;b&gt;que se consolida en Gesta?&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="920" width="396" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-46" value="&lt;h1&gt;Validar&lt;/h1&gt;&lt;p&gt;Aún no se valida esta información.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="850" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FsLSWt84lDLGOrjkIzLL-45" target="FsLSWt84lDLGOrjkIzLL-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="1070" as="sourcePoint" />
+            <mxPoint x="620" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.299;exitY=1.085;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FsLSWt84lDLGOrjkIzLL-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="1030" as="sourcePoint" />
+            <mxPoint x="420" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-49" value="&lt;b&gt;Esto se agrega al modelo como una nueva capa.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="278" y="1000" width="274" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FsLSWt84lDLGOrjkIzLL-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="1030" as="sourcePoint" />
+            <mxPoint x="590" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-51" value="Debe incluir la fecha de atención del evento&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="591" y="980" width="189" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
