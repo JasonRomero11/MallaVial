@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T12:57:09.656Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="xYhzqPsISPV2AVBsOQgd" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-11T13:00:51.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="BRm2gPGxqFy6lYxIlcIu" version="21.2.9" type="github">
   <diagram name="Página-1" id="1OZZaF5aX_8ClHG2ztdf">
     <mxGraphModel dx="1290" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,6 +144,15 @@
         </mxCell>
         <mxCell id="FsLSWt84lDLGOrjkIzLL-41" value="Hasta el momento, lo que se tiene es&lt;i style=&quot;text-align: justify; background-color: initial;&quot;&gt;&amp;nbsp;el modelo integrado de información del territorio con la información de la red&lt;br&gt;del modelo de aguas actualizado&lt;/i&gt;&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;&lt;span style=&quot;font-size:10.0pt;&lt;br/&gt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:&amp;quot;Arial Unicode MS&amp;quot;;&lt;br/&gt;mso-ansi-language:ES-CO;mso-fareast-language:ES;mso-bidi-font-weight:bold&quot;&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="880" width="325" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-43" value="Hasta el momento, se tiene &lt;br&gt;el modelo actualizado, con los diferentes estados, sin embargo, no se tiene en cuenta en el modelo la información de reparaciones por daños o emergencias que tuvieron impacto en el pavimento y son eventos desconocidos.&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="10" y="990" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=205;exitDy=15;exitPerimeter=0;" edge="1" parent="1" source="FsLSWt84lDLGOrjkIzLL-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="970" as="sourcePoint" />
+            <mxPoint x="320" y="990" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
