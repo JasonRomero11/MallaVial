@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T13:08:25.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="fDRZx6AQ8NRLiPKOddx9" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-11T13:17:07.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="fhOWgS_TjyTQuU76rw-H" version="21.2.9" type="github">
   <diagram name="Página-1" id="1OZZaF5aX_8ClHG2ztdf">
     <mxGraphModel dx="1290" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="1310" y="360" width="340" height="150" as="geometry" />
         </mxCell>
         <mxCell id="FsLSWt84lDLGOrjkIzLL-1" value="HU01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="371" width="120" height="60" as="geometry" />
+          <mxGeometry x="370.5" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FsLSWt84lDLGOrjkIzLL-2" value="MDA" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="271" y="105" width="60" height="80" as="geometry" />
@@ -145,17 +145,17 @@
         <mxCell id="FsLSWt84lDLGOrjkIzLL-41" value="Hasta el momento, lo que se tiene es&lt;i style=&quot;text-align: justify; background-color: initial;&quot;&gt;&amp;nbsp;el modelo integrado de información del territorio con la información de la red&lt;br&gt;del modelo de aguas actualizado&lt;/i&gt;&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;&lt;span style=&quot;font-size:10.0pt;&lt;br/&gt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:&amp;quot;Arial Unicode MS&amp;quot;;&lt;br/&gt;mso-ansi-language:ES-CO;mso-fareast-language:ES;mso-bidi-font-weight:bold&quot;&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="810" width="325" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-43" value="Hasta el momento, se tiene &lt;br&gt;el modelo actualizado, con los diferentes estados, sin embargo, no se tiene en cuenta en el modelo la información de reparaciones por daños o emergencias que tuvieron impacto en el pavimento y son eventos desconocidos.&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry y="930" width="220" height="130" as="geometry" />
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-43" value="Hasta el momento, se tiene &lt;br&gt;el modelo actualizado, &lt;br&gt;con los diferentes estados, sin embargo, no se tiene en cuenta en el modelo la información de reparaciones por daños o emergencias que tuvieron impacto en el pavimento y son eventos desconocidos.&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="20" y="890" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="FsLSWt84lDLGOrjkIzLL-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="940" as="sourcePoint" />
-            <mxPoint x="270" y="940" as="targetPoint" />
+            <mxPoint x="220" y="920" as="sourcePoint" />
+            <mxPoint x="280" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FsLSWt84lDLGOrjkIzLL-45" value="Se incluyen las reparaciones a daños por emergencias, que es consolidada desde máximo y/o hidro, &lt;b&gt;que se consolida en Gesta?&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="284" y="920" width="396" height="40" as="geometry" />
+          <mxGeometry x="283" y="900" width="396" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FsLSWt84lDLGOrjkIzLL-46" value="&lt;h1&gt;Validar&lt;/h1&gt;&lt;p&gt;Aún no se valida esta información.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="850" width="100" height="90" as="geometry" />
@@ -169,20 +169,29 @@
         <mxCell id="FsLSWt84lDLGOrjkIzLL-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.299;exitY=1.085;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FsLSWt84lDLGOrjkIzLL-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="1030" as="sourcePoint" />
-            <mxPoint x="420" y="1000" as="targetPoint" />
+            <mxPoint x="410" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FsLSWt84lDLGOrjkIzLL-49" value="&lt;b&gt;Esto se agrega al modelo como una nueva capa.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="278" y="1000" width="274" height="30" as="geometry" />
+          <mxGeometry x="267" y="980" width="274" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FsLSWt84lDLGOrjkIzLL-49">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FsLSWt84lDLGOrjkIzLL-49" target="FsLSWt84lDLGOrjkIzLL-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="1030" as="sourcePoint" />
             <mxPoint x="590" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FsLSWt84lDLGOrjkIzLL-51" value="Debe incluir la fecha de atención del evento&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="591" y="980" width="189" height="30" as="geometry" />
+          <mxGeometry x="585" y="960" width="189" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-52" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2519/2519390.png;" vertex="1" parent="1">
+          <mxGeometry x="98" y="1050" width="102" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-53" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="355.5" y="660" width="70" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-56" value="Para este proceso en el visor geográfico, se deben manejar&amp;nbsp; roles, para manejar&amp;nbsp;&lt;i&gt;acuerdos de confidencialidad. Para esto se propone que el municipio tenga usuarios nombrados, lo que pueden ingresar al visor y hacer consultas - Tanto interno y externo.&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1102" width="515" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
