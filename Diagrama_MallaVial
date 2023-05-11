@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T13:17:21.039Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="YJxX_YdJNRNi_Ir-nSso" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-11T13:19:48.467Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="BrdrUDmm_V6C13EeE5XC" version="21.2.9" type="github">
   <diagram name="Página-1" id="1OZZaF5aX_8ClHG2ztdf">
     <mxGraphModel dx="1290" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,172 +25,172 @@
         <mxCell id="L3iwEohuJnauGdGk-Qny-10" value="&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;Facilitar la visualización conjunta de las redes de dichos servicios, junto con los planes de ordenamiento territorial, proyectos e intervenciones a la malla vial por parte de los municipios; con el fin de ofrecer la facilidad de coordinar las intervenciones a la malla vial y de este modo trabajar de manera conjunta con los entes territoriales.&lt;/i&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1310" y="360" width="340" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-1" value="HU01" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-1" value="HU01" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370.5" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-2" value="MDA" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-2" value="MDA" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="271" y="105" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAb1BMVEUAAAD////Dw8Pf39/k5OSlpaWtra309PSLi4uSkpJKSkqHh4djY2PGxsbKysrz8/Pt7e01NTVYWFi2trY/Pz9dXV2qqqqdnZ2AgIBBQUHU1NTh4eElJSUVFRUrKytoaGhycnIyMjINDQ0bGxt6enpw3qhqAAAEfUlEQVR4nO3d627iMBCG4UnLGQqFUA6lLdBy/9e4rNarEsg48djxONH3/uxK3jyF4mBHMmVBehqtPsmrQ2G8+XibzxdBLo0CjDHc+eEehbN/P1tuh/5XF0A4COArCp9+f7zzNvoLZ0GABeH49h+ePK/PW7gPA+SFNPa7QF/hKhDQIqSZ1xV6CrehgDYhnX0+Vf2Eh2BAq5DoXUv4FktIAx3hazhglZB2KsJwf4XVQlppCCcxhfTdiy8MCKwhFE7+PsKQf4a1hLSNLAw4V9QU0jGu8Dm+kJbOd+JtE7pP/u0TUt55IU07L3Sb/FsppJ/XrguJ5p0XUr/zQjp1XkjrepN/i4VEz50X1pr82y2kUeeF9NZ5IX1UTf7Vwl4+mk3+t74dLwlh5ZeNKmG+LA53u1aSiLBi8rcL5z/3o6UopItYOH0cLEkh7YXCshXtNIW0FAmPZUMlKrTMGrywfEE7VSF/e8MKe+UDJSv8dBYym9eNCW/vovuSAbgXkRMyL2Fzwtsv7S+SAbjFG07IvVEaExZeAtEIjsIvZpjGhIUlwpFkBGZrihEu6gwTVLgu/P8fghGY+1NGyF58Y0IqPI0g2dZilt8Y4Zwbpjlhcad+4b77yizbMMInbpjmhOu7S5gf3d6qL+WShIQl77Jh/fgnbhIS3r+IgUpISJvOC8lhv6WlQsu3vI4Ia6wNtl3o+aBlG4R0DvBkd9pC/6ee0xfSW9iP1ASFRKda22ZtFl7vb/rBkIkK/7afXUYOTZnfScJC15iPKAjvg1AxCCE0QagYhBCaIFQMQghNECoGIYQmCBWDEEIThIpBCKEJQsUghNAEoWIQQmiCUDEIITRBqBiEEJogVAxCCE0QKgYhhCYIFYMQQhOEikEIoQlCxSCE0AShYhBCaIJQMQghNEGoGIQQmiBUDEIITRAqBiGEJggVgxBCE4SKQQihCULFIITQBKFiEEJoglAxCCE0QagYhBCaIFQMQghNECoGoUB4iHn91THHA/oIJQdNNpjbKZ21hLIjXxurV07xEi5jAiorl/gJdzEBVR2bELLnsWrEnWbmJRQd29tQrieP1xTmMQ32XE+PrynM9jERtvYc0FeYzJTIn7fnKUzlw4aZ7UMIZWfZh84C9Bdmz+ofqF/WIyH9hVm2jcl5bGvzuQtLDxkcbtXu3yaDsgvyETKH0F/frC+DfuQ2+XuNk2ddhf3qIRPLVbiKe3kBchVS8BOJm85Z2Lq3qbOQ+6KZbO7CadwL9M5daL1FSjCBkFvySTSJsPzGJtVEQtrEvUivZEKatOePUSi8GvOWzP1i4bX1aTyI2Ya97W9KGL1d54Wimw0IkwpCCCHUD0IXYSLbEXeNAgoTe1TGJFojYoTJ7JoV4jayJcLsU1tT1iKkMKnHLEz8Pq9E+K7NKUm2ssAuf661PY+JgLwwvfmich/NUZidtEV3SfeELC/9WdtU6Fu6LGQRLrRRhax79UJhtkjn08b+MIJYmM6seBH7qoTZ4aiNuzbz2kWonGQW+UXzQdnzKRfdq/32ByGIaNHz9WJ5AAAAAElFTkSuQmCC;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAb1BMVEUAAAD////Dw8Pf39/k5OSlpaWtra309PSLi4uSkpJKSkqHh4djY2PGxsbKysrz8/Pt7e01NTVYWFi2trY/Pz9dXV2qqqqdnZ2AgIBBQUHU1NTh4eElJSUVFRUrKytoaGhycnIyMjINDQ0bGxt6enpw3qhqAAAEfUlEQVR4nO3d627iMBCG4UnLGQqFUA6lLdBy/9e4rNarEsg48djxONH3/uxK3jyF4mBHMmVBehqtPsmrQ2G8+XibzxdBLo0CjDHc+eEehbN/P1tuh/5XF0A4COArCp9+f7zzNvoLZ0GABeH49h+ePK/PW7gPA+SFNPa7QF/hKhDQIqSZ1xV6CrehgDYhnX0+Vf2Eh2BAq5DoXUv4FktIAx3hazhglZB2KsJwf4XVQlppCCcxhfTdiy8MCKwhFE7+PsKQf4a1hLSNLAw4V9QU0jGu8Dm+kJbOd+JtE7pP/u0TUt55IU07L3Sb/FsppJ/XrguJ5p0XUr/zQjp1XkjrepN/i4VEz50X1pr82y2kUeeF9NZ5IX1UTf7Vwl4+mk3+t74dLwlh5ZeNKmG+LA53u1aSiLBi8rcL5z/3o6UopItYOH0cLEkh7YXCshXtNIW0FAmPZUMlKrTMGrywfEE7VSF/e8MKe+UDJSv8dBYym9eNCW/vovuSAbgXkRMyL2Fzwtsv7S+SAbjFG07IvVEaExZeAtEIjsIvZpjGhIUlwpFkBGZrihEu6gwTVLgu/P8fghGY+1NGyF58Y0IqPI0g2dZilt8Y4Zwbpjlhcad+4b77yizbMMInbpjmhOu7S5gf3d6qL+WShIQl77Jh/fgnbhIS3r+IgUpISJvOC8lhv6WlQsu3vI4Ia6wNtl3o+aBlG4R0DvBkd9pC/6ee0xfSW9iP1ASFRKda22ZtFl7vb/rBkIkK/7afXUYOTZnfScJC15iPKAjvg1AxCCE0QagYhBCaIFQMQghNECoGIYQmCBWDEEIThIpBCKEJQsUghNAEoWIQQmiCUDEIITRBqBiEEJogVAxCCE0QKgYhhCYIFYMQQhOEikEIoQlCxSCE0AShYhBCaIJQMQghNEGoGIQQmiBUDEIITRAqBiGEJggVgxBCE4SKQQihCULFIITQBKFiEEJoglAxCCE0QagYhBCaIFQMQghNECoGoUB4iHn91THHA/oIJQdNNpjbKZ21hLIjXxurV07xEi5jAiorl/gJdzEBVR2bELLnsWrEnWbmJRQd29tQrieP1xTmMQ32XE+PrynM9jERtvYc0FeYzJTIn7fnKUzlw4aZ7UMIZWfZh84C9Bdmz+ofqF/WIyH9hVm2jcl5bGvzuQtLDxkcbtXu3yaDsgvyETKH0F/frC+DfuQ2+XuNk2ddhf3qIRPLVbiKe3kBchVS8BOJm85Z2Lq3qbOQ+6KZbO7CadwL9M5daL1FSjCBkFvySTSJsPzGJtVEQtrEvUivZEKatOePUSi8GvOWzP1i4bX1aTyI2Ya97W9KGL1d54Wimw0IkwpCCCHUD0IXYSLbEXeNAgoTe1TGJFojYoTJ7JoV4jayJcLsU1tT1iKkMKnHLEz8Pq9E+K7NKUm2ssAuf661PY+JgLwwvfmich/NUZidtEV3SfeELC/9WdtU6Fu6LGQRLrRRhax79UJhtkjn08b+MIJYmM6seBH7qoTZ4aiNuzbz2kWonGQW+UXzQdnzKRfdq/32ByGIaNHz9WJ5AAAAAElFTkSuQmCC;" parent="1" vertex="1">
           <mxGeometry x="401" y="95" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-4" value="MDA" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-4" value="MDA" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="541" y="105" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-5" value="Modelo digital de Aguas (Acueducto y Alcantarillado)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-5" value="Modelo digital de Aguas (Acueducto y Alcantarillado)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="261" y="205" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-6" value="Reutiliza el MDA para este fin específico" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-6" value="Reutiliza el MDA para este fin específico" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="521" y="190" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="391" y="195" as="sourcePoint" />
             <mxPoint x="491" y="195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-8" value="Reutiliza" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="FsLSWt84lDLGOrjkIzLL-7">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-8" value="Reutiliza" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="FsLSWt84lDLGOrjkIzLL-7" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.unite.ai/wp-content/uploads/2023/01/etl-1-990x600.png;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.unite.ai/wp-content/uploads/2023/01/etl-1-990x600.png;" parent="1" vertex="1">
           <mxGeometry x="359" y="235" width="132" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-11" value="ETL que en un periodo que está &lt;b&gt;sin definir&lt;/b&gt;, se actualiza el MDA, acá ya viene el estado planeación y diseño" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-11" value="ETL que en un periodo que está &lt;b&gt;sin definir&lt;/b&gt;, se actualiza el MDA, acá ya viene el estado planeación y diseño" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="315" width="341" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="301" y="265" as="sourcePoint" />
             <mxPoint x="391" y="265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="461" y="265" as="sourcePoint" />
             <mxPoint x="551" y="265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-15" value="En esta sincronización, se trae la información en unos estados" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-15" value="En esta sincronización, se trae la información en unos estados" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="318.5" y="355" width="245" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-16" value="Elementos en fase de:&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-16" value="Elementos en fase de:&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="361" y="435" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-17" value="&lt;h1&gt;Planeación&lt;/h1&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Se propone utilizar la fecha estimada de la instalación que viene en el MDA (Se poblaría con la &lt;b&gt;FPO&lt;/b&gt;: Fecha estimada de puesta en operación).&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-17" value="&lt;h1&gt;Planeación&lt;/h1&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Se propone utilizar la fecha estimada de la instalación que viene en el MDA (Se poblaría con la &lt;b&gt;FPO&lt;/b&gt;: Fecha estimada de puesta en operación).&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="495" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-23" value="En el modelo, existen dos&amp;nbsp;&lt;br&gt;campo&amp;nbsp; fechas probables&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;de ser reutilizadas&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(Definir si se reutiliza o se crea un&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;campo nuevo)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-23" value="En el modelo, existen dos&amp;nbsp;&lt;br&gt;campo&amp;nbsp; fechas probables&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;de ser reutilizadas&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(Definir si se reutiliza o se crea un&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;campo nuevo)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="31" y="635" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=90;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FsLSWt84lDLGOrjkIzLL-17" target="FsLSWt84lDLGOrjkIzLL-23">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=90;entryDy=0;entryPerimeter=0;" parent="1" source="FsLSWt84lDLGOrjkIzLL-17" target="FsLSWt84lDLGOrjkIzLL-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="705" as="sourcePoint" />
             <mxPoint x="470" y="655" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-25" value="&lt;h1&gt;Diseño&lt;/h1&gt;&lt;div&gt;Para este estado, se propone utilizar la fecha estimada de la instalación, igual al campo que existe en el MDA&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-25" value="&lt;h1&gt;Diseño&lt;/h1&gt;&lt;div&gt;Para este estado, se propone utilizar la fecha estimada de la instalación, igual al campo que existe en el MDA&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="245" y="495" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-26" value="&lt;h1&gt;Construcción&lt;/h1&gt;&lt;div&gt;Se propone utilizar la fecha de instalación que viene en el MDA&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-26" value="&lt;h1&gt;Construcción&lt;/h1&gt;&lt;div&gt;Se propone utilizar la fecha de instalación que viene en el MDA&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="495" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-27" value="&lt;h1&gt;Operación&lt;/h1&gt;&lt;div&gt;Se propone utilizar la fecha de instalación que viene en el MDA&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-27" value="&lt;h1&gt;Operación&lt;/h1&gt;&lt;div&gt;Se propone utilizar la fecha de instalación que viene en el MDA&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="657" y="495" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FsLSWt84lDLGOrjkIzLL-16">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="FsLSWt84lDLGOrjkIzLL-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="445" as="sourcePoint" />
             <mxPoint x="110" y="495" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FsLSWt84lDLGOrjkIzLL-16" target="FsLSWt84lDLGOrjkIzLL-25">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FsLSWt84lDLGOrjkIzLL-16" target="FsLSWt84lDLGOrjkIzLL-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="371" y="460" as="sourcePoint" />
             <mxPoint x="120" y="505" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FsLSWt84lDLGOrjkIzLL-16" target="FsLSWt84lDLGOrjkIzLL-26">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FsLSWt84lDLGOrjkIzLL-16" target="FsLSWt84lDLGOrjkIzLL-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="381" y="470" as="sourcePoint" />
             <mxPoint x="130" y="515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FsLSWt84lDLGOrjkIzLL-16" target="FsLSWt84lDLGOrjkIzLL-27">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FsLSWt84lDLGOrjkIzLL-16" target="FsLSWt84lDLGOrjkIzLL-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="391" y="480" as="sourcePoint" />
             <mxPoint x="140" y="525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-34" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-34" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="355" y="350" width="70" height="760" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://e7.pngegg.com/pngimages/997/429/png-clipart-black-traffic-light-illustration-traffic-light-computer-icons-symbol-traffic-light-s-image-file-formats-color.png;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://e7.pngegg.com/pngimages/997/429/png-clipart-black-traffic-light-illustration-traffic-light-computer-icons-symbol-traffic-light-s-image-file-formats-color.png;" parent="1" vertex="1">
           <mxGeometry x="679" y="760" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-38" value="Los estados deben en el visor poder diferenciarse de manera visual (Fácil de identificar). &lt;b&gt;Sin más definición.&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-38" value="Los estados deben en el visor poder diferenciarse de manera visual (Fácil de identificar). &lt;b&gt;Sin más definición.&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="770" width="619" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="FsLSWt84lDLGOrjkIzLL-25">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" target="FsLSWt84lDLGOrjkIzLL-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="293" y="730" as="sourcePoint" />
             <mxPoint x="350" y="635" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="730" as="sourcePoint" />
             <mxPoint x="550" y="615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-41" value="Hasta el momento, lo que se tiene es&lt;i style=&quot;text-align: justify; background-color: initial;&quot;&gt;&amp;nbsp;el modelo integrado de información del territorio con la información de la red&lt;br&gt;del modelo de aguas actualizado&lt;/i&gt;&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;&lt;span style=&quot;font-size:10.0pt;&lt;br/&gt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:&amp;quot;Arial Unicode MS&amp;quot;;&lt;br/&gt;mso-ansi-language:ES-CO;mso-fareast-language:ES;mso-bidi-font-weight:bold&quot;&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-41" value="Hasta el momento, lo que se tiene es&lt;i style=&quot;text-align: justify; background-color: initial;&quot;&gt;&amp;nbsp;el modelo integrado de información del territorio con la información de la red&lt;br&gt;del modelo de aguas actualizado&lt;/i&gt;&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;&lt;span style=&quot;font-size:10.0pt;&lt;br/&gt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:&amp;quot;Arial Unicode MS&amp;quot;;&lt;br/&gt;mso-ansi-language:ES-CO;mso-fareast-language:ES;mso-bidi-font-weight:bold&quot;&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="810" width="325" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-43" value="Hasta el momento, se tiene &lt;br&gt;el modelo actualizado, &lt;br&gt;con los diferentes estados, sin embargo, no se tiene en cuenta en el modelo la información de reparaciones por daños o emergencias que tuvieron impacto en el pavimento y son eventos desconocidos.&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-43" value="Hasta el momento, se tiene &lt;br&gt;el modelo actualizado, &lt;br&gt;con los diferentes estados, sin embargo, no se tiene en cuenta en el modelo la información de reparaciones por daños o emergencias que tuvieron impacto en el pavimento y son eventos desconocidos.&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="20" y="890" width="200" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-44" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="920" as="sourcePoint" />
             <mxPoint x="280" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-45" value="Se incluyen las reparaciones a daños por emergencias, que es consolidada desde máximo y/o hidro, &lt;b&gt;que se consolida en Gesta?&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-45" value="Se incluyen las reparaciones a daños por emergencias, que es consolidada desde máximo y/o hidro, &lt;b&gt;que se consolida en Gesta?&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="283" y="900" width="396" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-46" value="&lt;h1&gt;Validar&lt;/h1&gt;&lt;p&gt;Aún no se valida esta información.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-46" value="&lt;h1&gt;Validar&lt;/h1&gt;&lt;p&gt;Aún no se valida esta información.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="850" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FsLSWt84lDLGOrjkIzLL-45" target="FsLSWt84lDLGOrjkIzLL-46">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="FsLSWt84lDLGOrjkIzLL-45" target="FsLSWt84lDLGOrjkIzLL-46" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="1070" as="sourcePoint" />
             <mxPoint x="620" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.299;exitY=1.085;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FsLSWt84lDLGOrjkIzLL-45">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.299;exitY=1.085;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="FsLSWt84lDLGOrjkIzLL-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="1030" as="sourcePoint" />
             <mxPoint x="410" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-49" value="&lt;b&gt;Esto se agrega al modelo como una nueva capa.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-49" value="&lt;b&gt;Esto se agrega al modelo como una nueva capa.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="267" y="980" width="274" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FsLSWt84lDLGOrjkIzLL-49" target="FsLSWt84lDLGOrjkIzLL-51">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FsLSWt84lDLGOrjkIzLL-49" target="FsLSWt84lDLGOrjkIzLL-51" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="1030" as="sourcePoint" />
             <mxPoint x="590" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-51" value="Debe incluir la fecha de atención del evento&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-51" value="Debe incluir la fecha de atención del evento&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="585" y="960" width="189" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-52" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2519/2519390.png;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-52" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2519/2519390.png;" parent="1" vertex="1">
           <mxGeometry x="98" y="1050" width="102" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-53" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-53" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="355.5" y="660" width="70" height="760" as="geometry" />
         </mxCell>
-        <mxCell id="FsLSWt84lDLGOrjkIzLL-56" value="Para este proceso en el visor geográfico, se deben manejar&amp;nbsp; roles, para manejar&amp;nbsp;&lt;i&gt;acuerdos de confidencialidad. Para esto se propone que el municipio tenga usuarios nombrados, lo que pueden ingresar al visor y hacer consultas - Tanto interno y externo.&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FsLSWt84lDLGOrjkIzLL-56" value="&lt;b&gt;Para este proceso en el visor geográfico, se deben manejar&amp;nbsp; roles, para manejar&amp;nbsp;&lt;i&gt;acuerdos de confidencialidad. Para esto se propone que el municipio tenga usuarios nombrados, lo que pueden ingresar al visor y hacer consultas - Tanto interno y externo.&lt;/i&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="1102" width="515" height="50" as="geometry" />
         </mxCell>
       </root>
