@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T19:18:49.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="7KQ9xvk4m87BDSFA7VuN" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T19:21:28.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="7STqgJIH-bji6pkF5SCE" version="21.3.3" type="github">
   <diagram name="Página-1" id="1OZZaF5aX_8ClHG2ztdf">
     <mxGraphModel dx="1290" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,7 +161,7 @@
           <mxGeometry x="276" y="800" width="396" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FsLSWt84lDLGOrjkIzLL-46" value="&lt;h1&gt;Validar&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Aún no se valida esta información.&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="693" y="750" width="100" height="90" as="geometry" />
+          <mxGeometry x="690.5" y="740" width="107" height="110" as="geometry" />
         </mxCell>
         <mxCell id="FsLSWt84lDLGOrjkIzLL-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="FsLSWt84lDLGOrjkIzLL-45" target="FsLSWt84lDLGOrjkIzLL-46" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -422,7 +422,7 @@
           <mxGeometry x="70" y="2650" width="140" height="160" as="geometry" />
         </mxCell>
         <mxCell id="7JHHTF6e7DvABkONojgG-21" value="&lt;h1&gt;Propuesta&lt;/h1&gt;&lt;p&gt;Para la construcción de ese servicio, no se piensa en una tarea automática, más bien en la construcción de una herramienta o por Soporte.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="84" y="3150" width="122" height="140" as="geometry" />
+          <mxGeometry x="88" y="3180" width="122" height="140" as="geometry" />
         </mxCell>
         <mxCell id="iDEZM3tWvx-Y5CQq2GgM-1" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;HU06&lt;br&gt;Cargue de información de&lt;br/&gt;intervenciones a la malla vial&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="302" y="3520" width="235.5" height="60" as="geometry" />
